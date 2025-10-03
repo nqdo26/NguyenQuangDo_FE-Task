@@ -180,7 +180,7 @@ const RevenueTrendChart = () => {
       <CardHeader className="space-y-4">
         <div className="flex flex-col gap-4 lg:flex-row lg:items-center lg:gap-6">
           <CardTitle className="text-2xl font-semibold text-gray-900">
-            This Week's Revenue Trend
+            This Week&apos;s Revenue Trend
             {compareToPrevious ? " vs Previous Period" : ""}
           </CardTitle>
 
